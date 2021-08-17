@@ -1,5 +1,5 @@
 [staging_servers]
-linux0 ansible_host=192.168.0.7
+ubuntu ansible_host=192.168.0.7
 CentOS ansible_host=192.168.0.8
 
 
