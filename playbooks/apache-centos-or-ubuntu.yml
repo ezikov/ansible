@@ -4,7 +4,7 @@
   become: yes
 
   vars:
-    source_file: /home/user/app-for-jenkins/index.html
+    source_file: /home/user/ansible/web-site/index.html
     destin_file: /var/www/html
 
   tasks:
